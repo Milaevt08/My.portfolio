@@ -63,7 +63,7 @@ section {
 }
 
 section h3 {
-    color: #9000ff;
+    color: #00FFFFF;
     border-bottom: 2px solid #9004e7;
     padding-bottom: 0.3rem;
     margin-bottom: 1rem;
@@ -205,5 +205,6 @@ footer {
         gap: 0.5rem;
     }
 }
+
 
 
