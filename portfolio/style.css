@@ -108,7 +108,7 @@ ul {
 .project img:hover {
     transform: scale(1.05);
 }
-/* Timeline */
+
 #timeline .timeline {
     border-left: 3px solid #007BFF;
     padding-left: 20px;
@@ -137,7 +137,7 @@ ul {
     margin-right: 10px;
 }
 
-/* Stats */
+
 #stats .stats-container {
     display: flex;
     justify-content: space-around;
@@ -205,4 +205,5 @@ footer {
         gap: 0.5rem;
     }
 }
+
 
